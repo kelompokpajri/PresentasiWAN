@@ -1,10 +1,12 @@
+
 # Presentasi WAN
-Ini dibuat oleh pajri ladusight. 
+Ini dibuat oleh Pajri Ladusing. 
+
 Dokumentasi PowerPoint mata pelajaran WAN
 
-Nama Kelompok
-- Fajri Ladusight
-- Al Ladusight
-- Keyza Ladusight
-- Rendy Ladusight
-- Daffa Ladusight
+# Nama Kelompok Ladusing
+- Fajri Ladusing
+- Al Ladusing
+- Keyza Ladusing
+- Rendy Ladusing
+- Daffa Ladusing
