@@ -6,7 +6,7 @@ Dokumentasi PowerPoint mata pelajaran WAN
 
 # Nama Kelompok Ladusing
 - Fajri Ladusing
-- Al Ladusing
+- Abrar Ladusing
 - Keyza Ladusing
 - Rendy Ladusing
 - Daffa Ladusing
